@@ -7,7 +7,7 @@
   <groupId>com.vikramnet</groupId>
   <artifactId>vikramnet</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+  <packaging>war</packaging>
   <name>vikramnet</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
@@ -23,7 +23,6 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-      <packaging>war</packaging>
       <scope>test</scope>
     </dependency>
   </dependencies>
