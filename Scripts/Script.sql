@@ -1,0 +1,1 @@
+SELECT * FROM saarathi.tb_cp_user_mst;
